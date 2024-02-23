@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [my medium](https://medium.com/@helabenkhalfallah).
 
-- 💬 Ask me about **JavaScript, Node.js, React**.
+- 💬 Ask me about **JavaScript, Node.js, React, configurations (Babel, Webpack, Jest, Lint), Architecture and Clean Code**.
 
 - 📄 Know about my experiences on [my linkedin](https://www.linkedin.com/in/h%C3%A9la-ben-khalfallah-4a104014/).
 
