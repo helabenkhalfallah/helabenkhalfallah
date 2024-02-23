@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **everything !**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/h%C3%A9la-ben-khalfallah-4a104014/](https://www.linkedin.com/in/h%C3%A9la-ben-khalfallah-4a104014/)
+- 👨‍💻 All of my projects are available at [my linkedin](https://www.linkedin.com/in/h%C3%A9la-ben-khalfallah-4a104014/)
 
-- 📝 I regularly write articles on [https://medium.com/@helabenkhalfallah](https://medium.com/@helabenkhalfallah)
+- 📝 I regularly write articles on [my medium](https://medium.com/@helabenkhalfallah)
 
 - 💬 Ask me about **JavaScript, Node.js, React**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/h%C3%A9la-ben-khalfallah-4a104014/](https://www.linkedin.com/in/h%C3%A9la-ben-khalfallah-4a104014/)
+- 📄 Know about my experiences on [my linkedin](https://www.linkedin.com/in/h%C3%A9la-ben-khalfallah-4a104014/)
 
 - ⚡ Fun fact **I'm fat because I eat a lot of programming!**
 
