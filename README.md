@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my book !**
 
-- 🌱 I’m currently learning **everything !**
+- 🌱 I’m currently learning **Python, it's delicious 🍭🍩!**
 
 - 👨‍💻 All of my projects are available at [my linkedin](https://www.linkedin.com/in/h%C3%A9la-ben-khalfallah-4a104014/).
 
