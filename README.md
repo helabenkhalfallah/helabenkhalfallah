@@ -3,7 +3,7 @@
 
 - 📝 I regularly write articles on [my blog](https://helabenkhalfallah.com/) and [my medium](https://medium.com/@helabenkhalfallah).
 
-- 🔭 You can here found and read [my books](https://helabenkhalfallah.com/books/).
+- 🔭 You can found and read my books [here](https://helabenkhalfallah.com/books/).
 
 - 👨‍💻 All of my projects are available at [my github]([https://www.linkedin.com/in/h%C3%A9la-ben-khalfallah-4a104014/](https://github.com/helabenkhalfallah?tab=repositories)).
 
