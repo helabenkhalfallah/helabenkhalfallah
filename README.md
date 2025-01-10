@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Héla Ben Khalfallah!</h1>
 <h3 align="center">A passionate JavaScript developer (Frontend and Backend)</h3>
 
-- 🔭 I’m currently working on **my book !**
+- 📝 I regularly write articles on [my blog](https://helabenkhalfallah.com/) and [my medium](https://medium.com/@helabenkhalfallah).
 
-- 🌱 I’m currently learning **Python, it's delicious 🍭🍩!**
+- 🔭 You can here found and read [my books](https://helabenkhalfallah.com/books/).
 
-- 👨‍💻 All of my projects are available at [my linkedin](https://www.linkedin.com/in/h%C3%A9la-ben-khalfallah-4a104014/).
+- 👨‍💻 All of my projects are available at [my github]([https://www.linkedin.com/in/h%C3%A9la-ben-khalfallah-4a104014/](https://github.com/helabenkhalfallah?tab=repositories)).
 
-- 📝 I regularly write articles on [my medium](https://medium.com/@helabenkhalfallah).
-
-- 💬 Ask me about **JavaScript, Node.js, React, configurations (Babel, Webpack, Jest, Lint), Architecture and Clean Code**.
+- 💬 Ask me about **JavaScript, Node.js, React, FrontendOps, Architecture and Clean Code**.
 
 - 📄 Know about my experiences on [my linkedin](https://www.linkedin.com/in/h%C3%A9la-ben-khalfallah-4a104014/).
 
